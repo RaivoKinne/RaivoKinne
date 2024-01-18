@@ -1,6 +1,6 @@
 ### Hi there my name is Raivo 👋
   - 🖥️ I've been coding for two years mostly in Javascript and PHP.
-  - 🦀 I learning rust and go.
+  - 🦀 I am learning rust and go.
   - 📘 The best editor is neovim.
   - 💬 You can follow me on Twitter @raivokinne.
 <!--
