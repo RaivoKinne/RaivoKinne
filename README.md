@@ -3,6 +3,7 @@
   - 🦀 I am learning rust and go.
   - 📘 The best editor is neovim.
   - 💬 You can follow me on Twitter @raivokinne.
+  - 🏫 I am currently studying in Vidzemes tehnoloģiju un dizaina tehnikums.
 <!--
 **RaivoKinne/RaivoKinne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
