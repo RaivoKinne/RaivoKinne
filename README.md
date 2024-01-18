@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there my name is Raivo 👋
+  1.🖥️ I've been coding for two years mostly in Javascript and PHP.
+  2.🦀 I learning rust and go.
+  3.📘 The best editor is neovim.
+  4.💬 You can follow me on Twitter @raivokinne
 <!--
 **RaivoKinne/RaivoKinne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
